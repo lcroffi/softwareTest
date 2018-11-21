@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsuarioDAOImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-11-21T01:51:24" hostname="pc-lily" time="0.051">
+  <properties/>
+  <testcase name="inserirDAOTest()" classname="UsuarioDAOImplTest" time="0.016"/>
+  <testcase name="buscarDAOTest()" classname="UsuarioDAOImplTest" time="0.005"/>
+  <testcase name="listarDAOTest()" classname="UsuarioDAOImplTest" time="0.005"/>
+  <testcase name="removerDAOTest()" classname="UsuarioDAOImplTest" time="0.006"/>
+  <testcase name="validarLoginTest()" classname="UsuarioDAOImplTest" time="0.005"/>
+  <testcase name="atualizarDAOTest()" classname="UsuarioDAOImplTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

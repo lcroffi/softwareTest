@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CriptografiaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-11-21T01:51:24" hostname="pc-lily" time="0.002">
+  <properties/>
+  <testcase name="criptoTest()" classname="CriptografiaTest" time="0.001"/>
+  <testcase name="descriptoTest()" classname="CriptografiaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
